@@ -24,10 +24,10 @@ The complete workflow includes: - Data preprocessing\
 
 ## Project Structure
 
-medical-health-insurance-cost-prediction/
-└── medical-health-insurance-cost-prediction.ipynb
-└── README.md
-└── dataset.csv
+medical-health-insurance-cost-prediction/ \
+└── medical-health-insurance-cost-prediction.ipynb\
+└── README.md\
+└── dataset.csv\
 
 ------------------------------------------------------------------------
 

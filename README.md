@@ -36,12 +36,12 @@ medical-health-insurance-cost-prediction/ \
 
 The dataset typically contains the following features:
 
--   age -- Age of the individual\
--   sex -- Gender\
--   bmi -- Body Mass Index\
--   children -- Number of dependents\
--   smoker -- Smoking status\
--   region -- Residential area\
+-   age -- Age of the individual
+-   sex -- Gender
+-   bmi -- Body Mass Index
+-   children -- Number of dependents
+-   smoker -- Smoking status
+-   region -- Residential area
 -   charges -- Medical insurance cost (target variable)
 
 ------------------------------------------------------------------------
@@ -75,18 +75,18 @@ The dataset typically contains the following features:
 ## Key Outcomes
 
 -   Identified strong dependence of insurance cost on smoking status and
-    BMI.\
+    BMI.
 -   Built a regression model capable of predicting insurance charges
-    with good accuracy.\
+    with good accuracy.
 -   Compared multiple models to ensure optimal performance.
 
 ------------------------------------------------------------------------
 
 ## Future Improvements
 
--   Hyperparameter tuning\
--   Adding deep learning models\
--   Deploying via Flask or Streamlit\
+-   Hyperparameter tuning
+-   Adding deep learning models
+-   Deploying via Flask or Streamlit
 -   Real-time user input prediction system
 
 ------------------------------------------------------------------------

@@ -14,10 +14,11 @@ age, BMI, smoking habits, and region. This project applies supervised
 machine learning models to estimate insurance charges based on these
 parameters.
 
-The complete workflow includes: - Data preprocessing\
-- Exploratory Data Analysis (EDA)\
-- Feature engineering\
-- Model training and evaluation\
+The complete workflow includes: 
+- Data preprocessing
+- Exploratory Data Analysis (EDA)
+- Feature engineering
+- Model training and evaluation
 - Prediction and performance comparison
 
 ------------------------------------------------------------------------

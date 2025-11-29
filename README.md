@@ -48,11 +48,11 @@ The dataset typically contains the following features:
 
 ## Technologies Used
 
--   Python\
--   Jupyter Notebook\
--   NumPy\
--   Pandas\
--   Matplotlib / Seaborn\
+-   Python
+-   Jupyter Notebook
+-   NumPy
+-   Pandas
+-   Matplotlib / Seaborn
 -   Scikit-learn
 
 ------------------------------------------------------------------------
